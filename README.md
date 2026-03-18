@@ -6,4 +6,4 @@ The case features a screw and a little groove where the pcb slides.
 It has a slick, modern, round design.
 
 # The brain
-The qhole thing is powered by a ESP32, paired with a PCM5102A DAC.
+The hole thing is powered by a ESP32, paired with a PCM5102A DAC.
