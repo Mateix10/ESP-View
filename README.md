@@ -2,7 +2,8 @@
 This is a music visualiser + DAC that does exactly that - it plays the music trough USB, and visualises it.
 # PCB
 The PCB is designed in kicad.
-![PCB image]
+
+![PCB image](Images/PCB.png)
 
 # Case
 The case features a screw and a little groove where the pcb slides.
