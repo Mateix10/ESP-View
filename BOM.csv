@@ -4,3 +4,4 @@ LED Matrix;Visualise Sound;24,98;1,00;24,98;https://www.superlightingled.com/5v-
 DAC;Turn digital audio into analog;22,80;1,00;22,8;https://www.optimusdigital.ro/ro/audio-altele/5658-modul-audio-stereo-dac-pcm5102a-cu-interfaa-pcm-32-bii-384-khz.html;Optimus Digital
 SN74HCT04AN Level Shifter;Turn 3V3 ESP32 logic into 5V;3,19;1,00;3,19;https://www.aliexpress.com/item/1005007123530432.html;Aliexpress
 ESP32-S3-DevKitC-1;Process visualisation and digital audio;18,50;1,00;18,5;https://www.aliexpress.com/item/1005003979778978.html;Aliexpress
+PCB;Connects everything;1,74;1,00;1,74;;JLCPCB

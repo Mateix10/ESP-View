@@ -49,3 +49,4 @@ The Firmware isn't currently tested.
 | DAC | $22.80 |https://www.optimusdigital.ro/ro/audio-altele/5658-modul-audio-stereo-dac-pcm5102a-cu-interfaa-pcm-32-bii-384-khz.html|
 | Level Shifter| $3.19 |https://www.aliexpress.com/item/1005007123530432.html|
 |ESP32-S3-DevKitC-1| $18.50 |https://www.aliexpress.com/item/1005003979778978.html|
+|PCB|$1.74|-|
