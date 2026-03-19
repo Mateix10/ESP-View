@@ -1,15 +1,17 @@
 # What is this?
-This is a music visualiser + DAC that does exactly that - it plays the music trough USB, and visualises it.
+This is a music visualiser + DAC that does exactly that - it plays the music through USB, and visualises it.
 # PCB
 The PCB is designed in kicad.
 
 ![PCB image](Images/PCB.png)
 
 # Case
-The case features a screw and a little groove where the pcb slides.
+The case features a screw and a little groove where the PCB slides.
 It has a slick, modern, round design.
 
-![Case image](https://github.com/Mateix10/ESP-View/blob/690596a92fee63e51127e5401475ecdf8205f951/Images/Case1.png)
+Designed in Fusion 360.
+
+![Case image](Images/Case1.png)
 
 # The brain
-The hole thing is powered by a ESP32, paired with a PCM5102A DAC.
+The whole thing is powered by a ESP32, paired with a PCM5102A DAC.
