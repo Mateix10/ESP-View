@@ -3,6 +3,8 @@ This is a music visualiser + DAC that does exactly that - it plays the music thr
 # PCB
 The PCB is designed in kicad.
 
+![Schematic image](Images/Schematic.png)
+
 ![PCB image](Images/PCB.png)
 
 # Case
