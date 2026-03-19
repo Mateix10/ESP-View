@@ -1,6 +1,8 @@
 # ESP-View
 This is a music visualiser + DAC that does exactly that - it plays the music through USB, and visualises it.
 
+![Render image](Assets/Render.png)
+
 <sub>Also, a better name will be much appreciated :)</sub>
 
 ## PCB
