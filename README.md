@@ -20,8 +20,16 @@ Designed in Fusion 360.
 
 ![Case image](Assets/Case1.png)
 
-## The brain
+## Firmware 
 The whole thing is powered by a ESP32, paired with a PCM5102A DAC.
+The firmware is written in Arduino IDE
+
+Required libraries:
+- NeoPixelBus by Makuna
+- arduinoFFT
+
+All of these can be installed trough the Arduino IDE's library manager.
+
 
 ## BOM
 | Name | Cost |Link|
