@@ -27,7 +27,9 @@ The firmware is written in Arduino IDE
 To interface with the ESP32, you need to install board support in Arduino IDE.
 You can do that by going to File -> Preferences -> Additional Board Manager URLs, and add https://espressif.github.io/arduino-esp32/package_esp32_index.json
 
-After that, go to Tools -> Board -> Boards Manager. Search for esp32 and install "esp32" by Espressif. *WARNING:* Version 3.x is required for proper TinyUSB audio support.
+After that, go to Tools -> Board -> Boards Manager. Search for esp32 and install "esp32" by Espressif.
+
+**WARNING**: Version 3.x is required for proper TinyUSB audio support.
 
 Required libraries:
 - NeoPixelBus by Makuna
