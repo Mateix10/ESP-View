@@ -3,6 +3,8 @@ This is a music visualiser + DAC that does exactly that - it plays the music thr
 
 ![Render image](Assets/Render.png)
 
+![Build](Assets/1775731444382-y3v861.webp)
+
 <sub>Also, a better name will be much appreciated :)</sub>
 
 ## PCB
